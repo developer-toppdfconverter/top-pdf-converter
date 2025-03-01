@@ -1,2 +1,143 @@
 # top-pdf-converter
 Top PDF Converter official doc
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Top PDF Converter - Free & Easy PDF Tools</title>
+  <meta name="description" content="Top PDF Converter offers free and easy-to-use PDF conversion tools. Convert images to PDF, compress PDFs, and enjoy fast, secure, and unlimited usage.">
+  <style>
+    /* Basic CSS styling */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #004080;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #e0e0e0;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      color: #004080;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    h1, h2, h3 {
+      color: #004080;
+    }
+    ul.feature-list {
+      list-style: none;
+      padding: 0;
+    }
+    ul.feature-list li {
+      background: #fff;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .contact-form input, .contact-form textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 5px 0 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    .contact-form button {
+      background-color: #004080;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    footer {
+      background-color: #004080;
+      color: #fff;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
+    footer a {
+      color: #fff;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Top PDF Converter</h1>
+    <p>Free & Easy PDF Conversion Tools</p>
+  </header>
+  <nav>
+    <a href="#tools">Tools</a>
+    <a href="#features">Why Choose Us</a>
+    <a href="#faq">FAQ</a>
+  </nav>
+  <section id="intro">
+    <h2>Welcome to Top PDF Converter</h2>
+    <p>
+      Tired of searching for reliable PDF tools? Top PDF Converter is here to help.
+      We provide 100% free, fast, and secure online tools to convert your images to PDF,
+      compress PDF files, and much more—all designed with care in India.
+    </p>
+  </section>
+  <section id="tools">
+    <h2>Our Tools</h2>
+    <ul class="feature-list">
+      <li>
+        <h3><a href="https://toppdfconverter.com/jpg-to-pdf" target="_blank">JPG to PDF</a></h3>
+        <p>Effortlessly convert multiple images into one streamlined PDF file.</p>
+      </li>
+      <li>
+        <h3><a href="https://toppdfconverter.com/compress-pdf" target="_blank">Compress PDF</a></h3>
+        <p>Reduce file size without sacrificing quality, making your PDFs easier to share.</p>
+      </li>
+      <!-- Additional tools can be listed here if needed -->
+    </ul>
+  </section>
+  <section id="features">
+    <h2>Why Choose Top PDF Converter?</h2>
+    <ul class="feature-list">
+      <li><strong>Free Tools:</strong> Access all our premium features at no cost.</li>
+      <li><strong>Made in India with Love:</strong> Developed by passionate creators who care.</li>
+      <li><strong>Safe & Secure:</strong> We use TLS encryption to ensure your data is protected.</li>
+      <li><strong>No File Storage:</strong> Your files are automatically deleted after 2 hours for privacy.</li>
+      <li><strong>No Limits:</strong> Use our services as many times as you need.</li>
+      <li><strong>Lightning Fast:</strong> Enjoy quick conversions that keep up with your pace.</li>
+    </ul>
+  </section>
+  <section id="faq">
+    <h2>Frequently Asked Questions</h2>
+    <h3>Do I need to pay for any service?</h3>
+    <p>No, every tool on our platform is completely free.</p>
+    <h3>How many files can I convert for free?</h3>
+    <p>You can convert an unlimited number of files without any restrictions.</p>
+    <h3>Are my files stored on your server?</h3>
+    <p>No, files are kept only for a short period (2 hours) to allow you to download them, ensuring your privacy.</p>
+    <h3>Who are we?</h3>
+    <p>We are a small, dedicated team based in India, committed to providing high-quality PDF conversion tools.</p>
+  </section>
+  <footer>
+    <p>&copy; 2024 Top PDF Converter. All rights reserved.</p>
+    <p><a href="https://toppdfconverter.com" target="_blank">Visit our main website</a></p>
+  </footer>
+</body>
+</html>
